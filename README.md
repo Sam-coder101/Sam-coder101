@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **MERN Stack Web Development**
 
-- 👨‍💻 All of my projects are available at [https://sam-coder101.github.io/New-portfolio/](https://sam-coder101.github.io/New-portfolio/)
+- 👨‍💻 All of my projects are available at [https://sam-coder101.github.io/New-portfolio/](https://samportfoilo.vercel.app/)
 - 💬 **Student| Learner| Code Enthusiast**
 
 - 📫 How to reach me **sampaddass16@gmail.com**
