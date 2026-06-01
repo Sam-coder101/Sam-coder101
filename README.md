@@ -7,9 +7,9 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,25:020d14,60:01232e,100:00fff2&height=300&section=header&text=SAMPAD%20DAS&fontSize=90&fontColor=00fff2&fontAlignY=42&desc=Full%20Stack%20Developer%20%7C%20MERN%20Architect%20%7C%20Open%20Source%20Enthusiast&descSize=18&descColor=7fffd4&descAlignY=64&animation=fadeIn&stroke=00fff250&strokeWidth=1" />
 </div>
 
-<!-- ANIMATED TYPING LINE -->
+<!-- ANIMATED TYPING LINE — using readme-typing-svg.herokuapp.com (more stable) -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=700&color=00FFF2&center=true&vCenter=true&width=750&height=45&lines=🚀+MERN+Stack+Developer+%7C+Open+to+Internships;⚡+Building+Scalable+Full-Stack+Web+Applications;🌱+Turning+Ideas+into+Deployed+Products;💡+Student+Developer+from+West+Bengal%2C+India+🇮🇳;🔥+Code.+Ship.+Learn.+Repeat." />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=700&color=00FFF2&center=true&vCenter=true&width=750&height=45&lines=🚀+MERN+Stack+Developer+%7C+Open+to+Internships;⚡+Building+Scalable+Full-Stack+Web+Apps;🌱+Turning+Ideas+into+Deployed+Products;💡+Student+Developer+from+West+Bengal%2C+India;🔥+Code.+Ship.+Learn.+Repeat." />
 </div>
 
 <br/>
@@ -83,11 +83,11 @@ Email     : sampaddass16@gmail.com
 
 <!-- FEATURED PROJECTS -->
 
-## 🚀 Featured Projects
+<!--## 🚀 Featured Projects
 
-> *Real projects that showcase my skills — click to explore*
+> *Real projects that showcase my skills — click to explore* -->
 
-<div align="center">
+<!-- <div align="center">
 
 <table>
 <tr>
@@ -163,7 +163,7 @@ CLI automation tool with data processing, file management and MySQL database int
 
 > 📌 Replace project names, descriptions and links with your actual projects for maximum recruiter impact!
 
-</div>
+</div> -->
 
 ---
 
