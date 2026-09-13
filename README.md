@@ -8,14 +8,14 @@
 </div>
 
 <!-- ANIMATED TYPING LINE — using readme-typing-svg.herokuapp.com (more stable) -->
-<div align="center">
+<!-- <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=700&color=00FFF2&center=true&vCenter=true&width=750&height=45&lines=🚀+MERN+Stack+Developer+%7C+Open+to+Internships;⚡+Building+Scalable+Full-Stack+Web+Apps;🌱+Turning+Ideas+into+Deployed+Products;💡+Student+Developer+from+West+Bengal%2C+India;🔥+Code.+Ship.+Learn.+Repeat." />
 </div>
 
-<br/>
+<br/> -->
 
 <!-- QUICK LINKS -->
-<div align="center">
+<!-- <div align="center">
 
 [![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-Visit%20Now-00fff2?style=for-the-badge&labelColor=0d1117)](https://samportfoilo.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://linkedin.com/in/sampad-das)
@@ -33,13 +33,13 @@
 
 </div>
 
-<br/>
+<br/> -->
 
 ---
 
 <!-- VALUE PROPOSITION — THE RECRUITER HOOK -->
 
-<div align="center">
+<!-- <div align="center">
 
 ### 💼 Why Work With Me?
 
