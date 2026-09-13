@@ -3,7 +3,7 @@
 <!-- ══════════════════════════════════════════════════════════════════ -->
 
 <!-- HERO BANNER -->
-<div align="center">
+<!-- <div align="center">
 <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,25:020d14,60:01232e,100:00fff2&height=300&section=header&text=SAMPAD%20DAS&fontSize=90&fontColor=00fff2&fontAlignY=42&desc=Full%20Stack%20Developer%20%7C%20MERN%20Architect%20%7C%20Open%20Source%20Enthusiast&descSize=18&descColor=7fffd4&descAlignY=64&animation=fadeIn&stroke=00fff250&strokeWidth=1" />
 </div>
 
@@ -49,7 +49,7 @@
 | REST APIs + React frontends in days | Component-driven architecture & MVC patterns | Clear communicator, documentation-friendly |
 | Vercel cloud deployment experience | Responsive, accessible UI by default | Always learning, always improving |
 
-</div>
+</div> -->
 
 ---
 
